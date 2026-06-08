@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 <h3 align="center">A passionate BackEnd Developer from India</h3>
 
-- 🔭 I’m currently working on **PhysioGit**
-  - https://github.com/Adittyyaa/physio-frontend-final
 
 - 🌱 I’m currently learning **TypeScript** and **Rust**
 
