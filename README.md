@@ -2,7 +2,7 @@
 <h3 align="center">A passionate BackEnd Developer from India</h3>
 
 
-<img width="871" height="523" alt="image" src="https://github.com/user-attachments/assets/ba8a5f79-fad9-41b8-9b11-53e1137220ca" />
+
 
 
 - 🌱 I’m currently learning **TypeScript** and **Rust**
